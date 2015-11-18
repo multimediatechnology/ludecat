@@ -368,7 +368,7 @@ module.exports = function( grunt ) {
     'jade:dist',
     'useminPrepare',
     'less:styles',
-    'imagemin',
+    //'imagemin',
     'svgmin',
     'autoprefixer',
     'concat',
@@ -381,7 +381,6 @@ module.exports = function( grunt ) {
     'htmlmin',
     'jsonmin',
     'sitemap'
-    // 'manifest'
   ] );
 
   grunt.registerTask( 'default', [
