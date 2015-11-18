@@ -1,7 +1,7 @@
-# [game-jam.at](https://game-jam.at/)
-[![Build Status](https://jenkins.dovigo.org/buildStatus/icon?job=gamejam)](https://jenkins.dovigo.org/job/gamejam/)
+# [lude.cat](https://lude.cat/)
+[![Build Status](https://jenkins.dovigo.org/buildStatus/icon?job=ludecat)](https://jenkins.dovigo.org/job/ludecat/)
 
-> game-jam.at is a static single page website. It is generated with grunt, written in jade, less and js and uses jQuery and Bootstrap.
+> Website of the LudeCat event
 
 ## Dependencies
 
