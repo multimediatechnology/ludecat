@@ -368,7 +368,7 @@ module.exports = function( grunt ) {
     'jade:dist',
     'useminPrepare',
     'less:styles',
-    //'imagemin',
+    'imagemin',
     'svgmin',
     'autoprefixer',
     'concat',
