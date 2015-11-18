@@ -1,7 +1,7 @@
 {
-  "name": "conc.at",
+  "name": "lude.cat",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^2.1.0",
