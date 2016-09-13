@@ -20,7 +20,7 @@ $( function() {
 
     var sbg = new google.maps.LatLng( 47.723379, 13.087777 );
 
-    var uni = 'Fachhochschule Salzburg GmbH'
+    var uni = 'Fachhochschule Salzburg'
     var marker = new google.maps.Marker( {
       position: sbg,
       map:      map,
@@ -28,7 +28,7 @@ $( function() {
     } );
 
     var infowindow = new google.maps.InfoWindow( {
-      content: '<h2 class="section-heading">Veranstaltungsort</h2>' +
+      content: '<h2 class="section-heading">Location</h2>' +
                '<h3 class="section-subheading text-muted">' +
                uni +
                ' <a href="https://www.google.com/maps/place/Fachhochschule+Salzburg/" title="Open in Google Maps">' +
