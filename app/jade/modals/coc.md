@@ -1,10 +1,10 @@
-All attendees, speakers, sponsors and volunteers at Gamejam Salzburg are required to agree with and act according to the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+All attendees, speakers, sponsors and volunteers at LudeCat are required to agree with and act according to the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
 Need help? Contact us!
 
 ### The Quick Version
 
-Gamejam Salzburg is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, parties, Twitter and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organizers.
+LudeCat is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, parties, Twitter and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organizers.
 
 ### The Less Quick Version
 
