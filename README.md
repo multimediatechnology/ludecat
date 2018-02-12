@@ -1,5 +1,5 @@
 # [lude.cat](https://lude.cat/)
-[![Build Status](https://jenkins.dovigo.org/buildStatus/icon?job=ludecat)](https://jenkins.dovigo.org/job/ludecat/)
+[![Build Status](https://jenkins.5k20.com/buildStatus/icon?job=ludecat)](https://jenkins.dovigo.org/job/ludecat/)
 
 > Website of the LudeCat event
 
