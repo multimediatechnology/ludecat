@@ -39,7 +39,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "grunt build",
+    "build": "grunt build",
     "start": "grunt serve:dist"
   },
   "dependencies": {
